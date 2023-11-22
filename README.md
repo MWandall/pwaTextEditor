@@ -33,7 +33,7 @@ This text editor can be used for plain text or code snippets with syntax highlig
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2023] [Mitchell Wandall]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
